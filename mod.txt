@@ -1,7 +1,7 @@
 {
     "name" : "Grinder Fire Fix",
     "description" : "Fixes Grinder health on tick healing with dragon's breath",
-    "author" : "Neosty and Freyah",
+    "author" : "Yerziah and Freyah",
     "version" : "1",
     "hooks" : [
         {
